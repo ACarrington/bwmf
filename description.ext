@@ -22,9 +22,9 @@ class Header
 // F3 - Loading Screen
 // Credits: Please see the F3 online manual (http://www.ferstaberinde.com/f3/en/)
 
-onLoadName = "*** Insert mission name here. ***";
+onLoadName = "Totally Bad Dudes";
 onLoadMission = "Made with the F3 Mission Development Framework - Modified by BourbonWarfare.com";
-author = "*** Insert mission author name here. ***";
+author = "The BinaryMan";
 loadScreen = "bwbannersmall.jpg";
 
 // ============================================================================================
@@ -69,7 +69,7 @@ class Params
 		isGlobal = 0;						// Execute this only on the server
 		code = "f_param_weather = %1";
 	};
-
+	/*
 	class f_param_fog
 	{
 		title = "Fog";
@@ -80,7 +80,7 @@ class Params
 		isGlobal = 0;						// Execute this only on the server
 		code = "f_param_fog = %1";
 	};
-
+*/
     class f_param_timeOfDay
 	{
 		title = "$STR_f_param_timeOfDay";

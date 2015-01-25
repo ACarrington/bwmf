@@ -64,7 +64,7 @@ switch (_TypNumber) do
   {
     _Unit_Pool_S = ["rhs_msv_crew","rhs_pilot_combat_heli","rhs_msv_officer","rhs_msv_machinegunner","rhs_msv_machinegunner","rhs_msv_grenadier","rhs_msv_grenadier","rhs_msv_medic","rhs_msv_rifleman","rhs_msv_rifleman","rhs_msv_LAT","rhs_msv_LAT","rhs_msv_sergeant","rhs_msv_sergeant"];
     _Unit_Pool_V = ["rhs_tigr_msv","RHS_Ural_msv_01","RHS_Ural_Open_msv_01"];
-    _Unit_Pool_T = ["rhs_btr80_msv","rhs_2s3_tv","rhs_t80","rhs_bmp2_msv"];
+    _Unit_Pool_T = ["rhs_btr80a_msv","rhs_bmd1_msv","rhs_sprut_vdv"];
   _Unit_Pool_A = ["RHS_Mi24P_vvsc","RHS_Mi8mt_vvsc","RHS_Mi8AMTSh_vvsc"];
   };
 

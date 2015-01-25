@@ -11,7 +11,7 @@
 
 _cre = player createDiaryRecord ["diary", ["Credits","
 <br/>
-*** Insert mission credits here. ***
+The one, the only, the coolest dude to have lived in all of time: past, present, and future, THE BinaryMan. *Roll Credits*
 <br/><br/>
 Made with F3 (http://www.ferstaberinde.com/f3/en/)
 "]];
@@ -23,7 +23,9 @@ Made with F3 (http://www.ferstaberinde.com/f3/en/)
 
 _adm = player createDiaryRecord ["diary", ["Administration","
 <br/>
-*** Insert information on administration and logistics here. ***
+-Don't go to far from the starting area before safe start is off.	<br/>
+-Doesn't need to be said, don't go outside the map boundry.			<br/>
+-Seriously don't go into the red area. Those ghosts are spooky.
 "]];
 
 // ====================================================================================
@@ -33,7 +35,9 @@ _adm = player createDiaryRecord ["diary", ["Administration","
 
 _mis = player createDiaryRecord ["diary", ["Mission","
 <br/>
-*** Insert the mission here. ***
+Clear out the Russians located to our north. Be thorough in clearing out our land. <br/>	
+Stop once we reach the end of our property. <br/> 
+Do not enter the valley to the north east, marked red zone.
 "]];
 
 // ====================================================================================
@@ -43,11 +47,16 @@ _mis = player createDiaryRecord ["diary", ["Mission","
 
 _sit = player createDiaryRecord ["diary", ["Situation","
 <br/>
-*** Insert general information about the situation here.***
+While we were out at ""Bounce House Party Zone"" eatin' pizza and having a blast those pesky Russians creeped onto our land.
+Now the Russians are roaming around our land grazing on our grass. We don't want them here.
+GET THEM OFF!
+<br/>
+Spooky ghosts live in the valley to the east of our property don't wander to close
 <br/><br/>
 ENEMY FORCES
 <br/>
-*** Insert information about enemy forces here.***
+-Possible Enemy Locations marked on map (! marker)
+-Expect BTRs and Some Heavier Armor
 <br/><br/>
 "]];
 
